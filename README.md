@@ -1,6 +1,6 @@
 # Mozilla Open Leaders 7 Eugene Shadow
 
-*This is an unofficial shadow-fork of Open Leaders for project in Eugene.  We are following along with the process an if it's successful we hope to have a more official Open-Leaders program here locally*
+*This is an unofficial shadow-fork of Open Leaders for project in Eugene.  We are following along with the process an if it's successful we hope to have a more official Open-Leaders program here locally in the future*
 
 Welcome! This is the [Mozilla Open Leaders 7](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) (OL7) program repository. This repository will be used for the issue tracker. All the projects going through OL7 will use an issue to keep track of progress during the program.
 
